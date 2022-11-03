@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9yuN1/O1PiptKDW0HyvO92+VGNWVyosK/mQRJEvxRo1rp+kdJFymSQn6GDMDlKDrBWqEp7uEN2oEYBvArmpUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEVIN ANDRES JULIO\\Desktop\\Api\\WebApi\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

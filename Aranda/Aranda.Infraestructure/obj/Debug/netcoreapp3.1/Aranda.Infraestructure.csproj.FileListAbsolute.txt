@@ -1,0 +1,16 @@
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Infraestructure.deps.json
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Infraestructure.runtimeconfig.json
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Infraestructure.runtimeconfig.dev.json
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Infraestructure.dll
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Infraestructure.pdb
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Domain.dll
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\bin\Debug\netcoreapp3.1\Aranda.Domain.pdb
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.AssemblyInfo.cs
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.csproj.CopyComplete
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.dll
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.pdb
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Infraestructure\obj\Debug\netcoreapp3.1\Aranda.Infraestructure.genruntimeconfig.cache

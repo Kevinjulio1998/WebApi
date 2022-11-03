@@ -1,0 +1,426 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Test\\Aranda.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj",
+        "projectName": "Aranda.Domain",
+        "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj",
+        "packagesPath": "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEVIN ANDRES JULIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj",
+        "projectName": "Aranda.Infraestructure",
+        "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEVIN ANDRES JULIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj",
+        "projectName": "Aranda.Services",
+        "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj",
+        "packagesPath": "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEVIN ANDRES JULIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Domain\\Aranda.Domain.csproj"
+              },
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Test\\Aranda.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Test\\Aranda.Test.csproj",
+        "projectName": "Aranda.Test",
+        "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Test\\Aranda.Test.csproj",
+        "packagesPath": "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEVIN ANDRES JULIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj"
+              },
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\Aranda.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\Aranda.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\Aranda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\Aranda.csproj",
+        "projectName": "Aranda",
+        "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\Aranda.csproj",
+        "packagesPath": "C:\\Users\\KEVIN ANDRES JULIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KEVIN ANDRES JULIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Infraestructure\\Aranda.Infraestructure.csproj"
+              },
+              "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj": {
+                "projectPath": "C:\\Users\\KEVIN ANDRES JULIO\\source\\repos\\Aranda\\Aranda.Services\\Aranda.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

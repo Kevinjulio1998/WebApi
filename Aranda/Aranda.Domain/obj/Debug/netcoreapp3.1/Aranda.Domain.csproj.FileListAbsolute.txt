@@ -1,0 +1,10 @@
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\bin\Debug\netcoreapp3.1\Aranda.Domain.deps.json
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\bin\Debug\netcoreapp3.1\Aranda.Domain.dll
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\bin\Debug\netcoreapp3.1\Aranda.Domain.pdb
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.csproj.AssemblyReference.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.AssemblyInfoInputs.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.AssemblyInfo.cs
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.dll
+C:\Users\KEVIN ANDRES JULIO\source\repos\Aranda\Aranda.Domain\obj\Debug\netcoreapp3.1\Aranda.Domain.pdb
